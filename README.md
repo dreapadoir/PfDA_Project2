@@ -30,3 +30,6 @@ This submission will consist of a Jupyter notebook that will examine the Wiscons
 -Examine the distribution of data for each attribute to identify the optimum way of generating synthetic data
 -Generate a synthetic dataset for use in training further models
 
+### References
+https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
