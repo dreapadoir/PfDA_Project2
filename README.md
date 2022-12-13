@@ -33,3 +33,5 @@ This submission will consist of a Jupyter notebook that will examine the Wiscons
 ### References
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
+https://dl.acm.org/doi/epdf/10.1145/3184066.3184080
