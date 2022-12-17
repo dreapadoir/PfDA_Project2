@@ -32,6 +32,7 @@ This submission will consist of a Jupyter notebook that will examine the Wiscons
 
 ### References
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download
+https://www.kaggle.com/code/djokester/visualising-the-breast-cancer-wisconsin-data-set/notebook
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 Abien Fred M. Agarap. 2018. On breast cancer detection: an application of machine learning algorithms on the wisconsin diagnostic dataset. In Proceedings of the 2nd International Conference on Machine Learning and Soft Computing (ICMLSC '18). Association for Computing Machinery, New York, NY, USA, 5–9. https://doi.org/10.1145/3184066.3184080
