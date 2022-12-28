@@ -40,3 +40,4 @@ https://dl.acm.org/doi/epdf/10.1145/3184066.3184080
 R. Fitrah Umami and R. Sarno, "Analysis of Classification Algorithm for Wisconsin Diagnosis Breast Cancer Data Study," 2020 International Seminar on Application for Technology of Information and Communication (iSemantic), 2020, pp. 464-469, doi: 10.1109/iSemantic50169.2020.9234295.
 https://ieeexplore.ieee.org/document/9234295
 https://scikit-learn.org/stable/modules/svm.html
+https://scikit-learn.org/stable/modules/tree.html#
