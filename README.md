@@ -11,6 +11,8 @@ This repository will hold my submission for project 2 on the Programming for Dat
 * [pandas](https://pandas.pydata.org/docs/)
 * [sklearn](https://scikit-learn.org/stable/modules/classes.html)
 * [seaborn](https://seaborn.pydata.org/api.html)
+* [math](https://docs.python.org/3/library/math.html)
+* [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
 
 This submission will consist of a Jupyter notebook that will examine the Wisconsin Breast Cancer dataset and some of the machine learning algorithms applied to it. My intention is to carry out the project in three stages as follows:
 
